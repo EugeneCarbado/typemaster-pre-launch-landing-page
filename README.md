@@ -36,8 +36,8 @@ Users should be able to: See the page rendered for mobile/tablet and desktop. Th
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Live site for my solution](https://typemaster-pre-launch-landing-page.vercel.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/typemasterprelaunchlandingpage-SX5JzJU90)
+- Live Site URL: [Live site for my solution URL](https://typemaster-pre-launch-landing-page.vercel.app/)
 
 ## My process
 
