@@ -29,9 +29,9 @@ Users should be able to: See the page rendered for mobile/tablet and desktop. Th
 
 ### Screenshot
 
-![./assests/desktop.png](./assests/desktop.png)
-![./assests/tablet.png](./assests/tablet.png)
-![./assests/mobile.png](./assests/mobile.png)
+![./assets/desktop.png](./assests/desktop.png)
+![./assets/tablet.png](./assests/tablet.png)
+![./assets/mobile.png](./assests/mobile.png)
 
 
 ### Links
