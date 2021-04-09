@@ -29,15 +29,15 @@ Users should be able to: See the page rendered for mobile/tablet and desktop. Th
 
 ### Screenshot
 
-![](./assests/desktop.png)
-![](./assests/tablet.png)
-![](./assests/mobile.png)
+![./assests/desktop.png](./assests/desktop.png)
+![./assests/tablet.png](./assests/tablet.png)
+![./assests/mobile.png](./assests/mobile.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://typemaster-pre-launch-landing-page.vercel.app/)
+- Live Site URL: [Live site for my solution](https://typemaster-pre-launch-landing-page.vercel.app/)
 
 ## My process
 
