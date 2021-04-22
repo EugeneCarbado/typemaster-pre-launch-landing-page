@@ -61,6 +61,10 @@ body {
     font-family: 'Barlow', sans-serif;
 }
 
+body, html {
+    overflow-x: hidden;
+}
+
 /* header section styles */
 header {
     margin: 0 auto;
